@@ -112,3 +112,8 @@ body {
     border: 0;
     filter: invert(0);
 }
+@media screen and (max-width: 800px) {
+    body {
+    min-height: 290vh;
+    }
+}
